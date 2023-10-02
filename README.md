@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **expense tracker app**
  
- 🌱 I’m currently ** immersed in the process of acquiring knowledge and expertise in technology.**
+ 🌱 I’m currently **immersed in the process of acquiring knowledge and expertise in technology.**
 
  ⚡ Fun fact **I have a deep passion for photography and sketching.[here]https://in.pinterest.com/sreshta_1102**
  
