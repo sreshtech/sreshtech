@@ -8,7 +8,7 @@
 <hr/>
 <div align="center">
  
- 🔭 I’m currently working on **dsa tracker app**
+ 🔭 I’m currently working on **learning new tech stack**
  
  🌱 I’m currently **immersed in the process of acquiring knowledge and expertise in technology.**
 
