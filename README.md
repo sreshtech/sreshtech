@@ -12,7 +12,7 @@
  
  🌱 I’m currently **immersed in the process of acquiring knowledge and expertise in technology.**
 
- ⚡ Fun fact **I have a deep passion for photography and sketching.[here]https://in.pinterest.com/sreshta_1102**
+ ⚡ Fun fact **I have a deep passion for photography and sketching.**
  
  </div>
  <div align="center"> 
