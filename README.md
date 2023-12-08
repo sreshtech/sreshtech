@@ -26,7 +26,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-[![@sreshtech's Holopin board](https://holopin.me/sreshtech)](https://holopin.io/@sreshtech)
+
 <!--
  <hr/>
 
