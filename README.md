@@ -68,7 +68,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
- target="_blank" rel="noreferrer">
 
 
    <p align="left">
@@ -79,10 +78,10 @@ Here are some ideas to get you started:
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+  <img src="URL_TO_YOUR_JAVA_ICON_IMAGE" alt="Java" width="40" height="40"/>
+</a>
 
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="URL_TO_YOUR_JAVA_ICON_IMAGE" alt="Java" width="40" height="40"/>
-  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
