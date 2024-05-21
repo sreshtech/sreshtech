@@ -75,7 +75,7 @@
 <br>
 <h2 align="left">🥑 Open Source </h2>
 
-- GirlScript Summer of Code’ 24 Open Source Contributor
+- GirlScript Summer of Code’ 24 - Open Source Contributor
 - Hacktoberfest’ 23 - Open Source Contributor 
 </br>
 
@@ -87,7 +87,7 @@
   
 
 
-  
+ <br> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreshtech&show_icons=true&locale=en&layout=compact" alt="sreshta" /></p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
