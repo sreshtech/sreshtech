@@ -25,7 +25,6 @@
 
 
 
-[![An image of @sreshtech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreshtech)](https://holopin.io/@sreshtech)
 
 <br>
 <h2 align="left">Languages and Tools </h2>
