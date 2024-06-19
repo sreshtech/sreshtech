@@ -71,12 +71,6 @@
   <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="30px"></a>
 </p>
 
-<br>
-<h2 align="left">🥑 Open Source </h2>
-
-- GirlScript Summer of Code’ 24 - Open Source Contributor
-- Hacktoberfest’ 23 - Open Source Contributor 
-</br>
 
 <br>
 <h2 align="left">🙎‍♂️ Position of Responsibility</h2>
