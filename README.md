@@ -78,7 +78,12 @@
 - Microsoft student ambassador | BETA
 - GFG-Student chapter GCET | Technical TM
   
+<br>
+<h2 align="left">🥑 Open Source </h2>
 
+- GirlScript Summer of Code’ 24 - Open Source Contributor
+- Hacktoberfest’ 23 - Open Source Contributor 
+</br>
 
  <br> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreshtech&show_icons=true&locale=en&layout=compact" alt="sreshta" /></p>
