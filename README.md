@@ -82,5 +82,7 @@
 
  <br> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreshtech&show_icons=true&locale=en&layout=compact" alt="sreshta" /></p>
+<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
