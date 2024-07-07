@@ -8,7 +8,7 @@
 <hr/>
 <div align="center">
  
- 🔭 I’m currently working on a **New Project**
+ 🔭 I’m currently working as a **Freelancer**
  
  🌱 I’m currently **immersed in the process of acquiring knowledge and expertise in technology.**
 
