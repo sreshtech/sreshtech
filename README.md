@@ -8,7 +8,7 @@
 <hr/>
 <div align="center">
  
- 🔭 I’m currently working as a **Freelancer**
+ 🔭 I’m currently working as a **Application Developer at Kyndryl**
  
  🌱 I’m currently **immersed in the process of acquiring knowledge and expertise in technology.**
 
