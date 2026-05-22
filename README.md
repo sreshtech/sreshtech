@@ -74,6 +74,10 @@
 - Selected for Microsoft Startups Founder Hub (Sept 2024)
 
 ---
+## Portfolio
+[Link](https://sreshtech.github.io/portfolio.github.io/)
+
+---
 
 ## Tech stack
 
