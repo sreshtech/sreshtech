@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sreshta!;Generative+AI+Engineer;Building+RAG+%26+LLM+Systems;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sreshta!;SWE+Engineer;Building+RAG+%26+LLM+Systems;" />
 
 **SWE Engineer · LLM Applications · RAG & Agentic Systems · Azure AI**
 
