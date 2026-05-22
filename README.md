@@ -1,93 +1,122 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sreshtech.sreshtech" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sreshta!;" />
-</h1>
-
-<h3 align="center">A passionate developer from India </h3>
-<hr/>
 <div align="center">
- 
- 🔭 I’m currently working as a **Application Developer at Kyndryl**
- 
- 🌱 I’m currently **immersed in the process of acquiring knowledge and expertise in technology.**
 
- ⚡ Fun fact **I have a deep passion for photography and sketching.**
- 
- </div>
- <div align="center"> 
-  <a href="mailto:kumarisreshta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there!+👋;I'm+Sreshta!;Generative+AI+Engineer;Building+RAG+%26+LLM+Systems;" />
+
+**SWE Engineer · LLM Applications · RAG & Agentic Systems · Azure AI**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreshtak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sreshtech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sreshtakumari680@gmail.com)
+[![DP-100](https://img.shields.io/badge/Azure_Data_Scientist-DP--100-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
+
 </div>
 
-
-
-
-
-
 <br>
-<h2 align="left">Languages and Tools </h2>
 
-<p align="center">
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
-  <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
-  <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="30px"></a>
-  <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"></a>
-  <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"></a>
-  <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="30px" height="30px"></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="30px" height="30px"></a>
-  <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="30px" height="30px"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
-  <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"></a>
-</p>
+> Building production AI systems at **Kyndryl** for Honda — RAG pipelines, LLM-powered enterprise apps, and real-time analytics dashboards. 1 year of hands-on GenAI experience. DP-100 certified. Award-winning AI project at Microsoft's international competition.
 
-<h2 align="center">Languages</h2>
-<p align="center">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="SQL" width="30px" height="30px">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/latex.svg" alt="LaTeX" width="30px" height="30px">
-</p>
+---
 
-<h2 align="center">Tools</h2>
-<p align="center">
-  <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="30px" height="30px"></a>
-  <a href="https://github.com/" title="GitHub"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30px" height="30px"></a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
-  <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
-  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://github.com/get-icon/geticon/raw/master/icons/pycharm.svg" alt="PyCharm" width="30px" height="30px"></a>
-</p>
+## About me
 
-<h2 align="center">Frameworks</h2>
-<p align="center">
-  <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="30px" height="30px"></a>
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="30px" height="30px"></a>
-</p>
+- 🔭 Currently building **AI & LLM-powered enterprise apps** at Kyndryl (Client: Honda)
+- ☁️ **Microsoft Certified Azure Data Scientist (DP-100)** · Apr 2026
+- 🏆 **Winner** — Microsoft Ambassadors International AI Award (Street-Savvy, 2024)
+- 🌱 Currently deepening skills in **LangChain, LlamaIndex, and agentic workflows**
+- 📸 Outside work: photography & sketching
+- 📍 Gurugram, India
 
+| What I build | Examples |
+|---|---|
+| RAG & retrieval systems | ChromaDB + Ollama + FastAPI over 9,700+ enterprise records |
+| LLM-powered applications | Agentic query engines, prompt-optimised pipelines |
+| AI analytics platforms | VAPT security tool, fleet risk monitor (5,000+ devices) |
+| Executive dashboards | Power BI CISO dashboards, KPI & SLA reporting |
 
-<br>
-<h2 align="left">🙎‍♂️ Position of Responsibility</h2>
+---
 
-- Microsoft student ambassador | BETA
-- GFG-Student chapter GCET | Technical TM
-  
-<br>
-<h2 align="left">🥑 Open Source </h2>
+## Projects
 
-- GirlScript Summer of Code’ 24 - Open Source Contributor
-- Hacktoberfest’ 23 - Open Source Contributor 
-</br>
+### 🔍 Enterprise RAG System *(Production)*
+> Natural-language querying over 9,700+ IT support tickets · ChromaDB · Ollama · FastAPI
 
- <br> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreshtech&show_icons=true&locale=en&layout=compact" alt="sreshta" /></p>
-<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
+- Dual-mode retrieval engine (semantic + keyword fallback)
+- Sub-3-second latency with row-level citations
+- Replaced 30+ minutes of manual Excel lookup for Honda IT ops
+- Prompt-engineered pipelines to minimise hallucinations on domain data
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+---
 
+### 🛡️ AI Security Analytics Platform — VAPT *(Production)*
+> Python · Streamlit · SQLite · Docker · Plotly
+
+- Automated vulnerability risk classification (High / Medium / Low scoring)
+- SLA breach detection with one-click executive PDF reporting
+- Fully containerised and deployed in production
+
+---
+
+### 📊 Fleet Risk Monitoring Dashboard *(Production)*
+> FastAPI · Pandas · Chart.js · Azure Blob SFTP
+
+- REST APIs serving 5,000+ device endpoints
+- Automated ingestion pipeline across 12 device log CSV types
+- Configurable risk thresholds and real-time alerting
+
+---
+
+### 🚦 Street-Savvy — *Microsoft AI Award Winner*
+> Azure AI · Python · Computer Vision · NLP
+
+- AI-driven traffic rules learning platform
+- Won Microsoft Ambassadors International AI Project Award (2024)
+- Built with a cross-geography team of 4; handled AI classification pipeline
+- Selected for Microsoft Startups Founder Hub (Sept 2024)
+
+---
+
+## Tech stack
+
+**GenAI & LLM**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Frontend & Viz**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Cloud & Tools**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+---
+
+## Awards & recognition
+
+| Award | Details |
+|---|---|
+| 🏆 Microsoft AI Ambassador Award | Won internationally for Street-Savvy (2024) |
+| ⭐ Shining Star Award | Kyndryl India · Feb 2026 |
+| 🚀 Microsoft Startups Founder Hub | Project selected · Sept 2024 |
+| 📊 Myntra HackerRamp | Top 1,200 / 30,000 · Top 4% nationwide |
+| 🌍 GirlScript Summer of Code | Open Source Contributor · 2024 |
+| 🎃 Hacktoberfest | Open Source Contributor · 2023 |
+
+---
