@@ -75,7 +75,8 @@
 
 ---
 ## Portfolio
-[Link](https://sreshtech.github.io/portfolio.github.io/)
+
+> In Profile
 
 ---
 
